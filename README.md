@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bijoy2114
 - 👀 I’m interested in Wireless Communication
 - 🌱 I’m currently learning Matlab and Python
-- 💞️ I’m looking to collaborate on Wireless communication in pythin
+- 💞️ I’m looking to collaborate on Wireless communication in python
 - 📫 How to reach me ...
 
 <!---
